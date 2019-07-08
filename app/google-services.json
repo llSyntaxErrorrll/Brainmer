@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "572045898367",
+    "firebase_url": "https://brainmer-d33dc.firebaseio.com",
+    "project_id": "brainmer-d33dc",
+    "storage_bucket": "brainmer-d33dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572045898367:android:27141fc9ac637671",
+        "android_client_info": {
+          "package_name": "team.developers.brainmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572045898367-emsta381i5s71ljt4o4ht54qnqr0m24h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXbrwX-kGSvJX90ef5hEO6QPJFQeFRkhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572045898367-emsta381i5s71ljt4o4ht54qnqr0m24h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

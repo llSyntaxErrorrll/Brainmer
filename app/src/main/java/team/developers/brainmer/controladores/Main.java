@@ -1,8 +1,10 @@
-package team.developers.brainmer;
+package team.developers.brainmer.controladores;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import team.developers.brainmer.R;
 
 public class Main extends AppCompatActivity {
 
